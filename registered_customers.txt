@@ -1,0 +1,8 @@
+name|password|email-id|phone no
+
+anuj|anuj0101|patelanujshaileshbhai.123@gmail.com|
+Nishita Joshi|@np2005@|joshinishita01@gmail.com|9104188101
+yash|balar2165|yashbalar2165@gmail.com|9574272932
+darshan|rds111|d.s.rojasara111@gmail.com|7600167809
+
+nikunj|nik|mr.creator2308@gmail.com|7600167809

@@ -1,0 +1,4 @@
+soup|100.0
+dhosa|200.0
+pizza|300.0
+manchurian|200.0
